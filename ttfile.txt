@@ -2,4 +2,7 @@ Hey this is Tselote.
 Making changes
 
 New branch!
+<<<<<<< HEAD
 
+=======
+>>>>>>> tselote_tamerat
