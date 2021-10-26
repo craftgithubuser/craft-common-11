@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Greetings from craft-common-11");
 		
+		
+		
 	}
 
 }
