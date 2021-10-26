@@ -7,6 +7,8 @@ public class helloworld {
 
 
 	System.out.println("greeting from craft common 11");
+	System.out.println("greeting from craft common 11");
+	
 	
 	}
 
