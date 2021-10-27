@@ -1,4 +1,5 @@
-<class> 
+<class>
 <Git_class> 4 days </Git_class>
 <Web-service_class> 5 days </Web-service_class>
 </class>
+
