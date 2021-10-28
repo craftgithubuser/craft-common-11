@@ -6,7 +6,7 @@ public class abaywonz {
 		// TODO Auto-generated method stub
 		System.out.println ("abay wonzachen");
 		System.out.println ("abay yegedbal");
-		
+		System.out.println ("abay abay");
 	}
 
 }
